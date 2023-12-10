@@ -1,6 +1,6 @@
 # API - Diagnóstico da Coluna
 
-A **API - Diagnóstico da Coluna** fornece um serviço que diz se um paciente tem ou não algum problema de Hernia de Disco ou Espondilolistese.
+A **API - Diagnóstico da Coluna** fornece um serviço que faz uma predição que diz se um paciente tem ou não algum problema de Hernia de Disco ou Espondilolistese.
 
 Principais funcionalidades:
 - **Cadastro de paciente**: cadastro do paciente que com base nos dados passados o sistema informa o diagnóstico;
